@@ -12,6 +12,8 @@ setup(
         "pandas",
         "html5lib",
         "scikit-learn",
+        "aiofiles",
+        "beautifulsoup4",
     ],
     extras_require={
         "dev": [
