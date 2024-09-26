@@ -1,0 +1,6 @@
+locations:
+  - location_name: my_dagster_code_location
+    code_source:
+      package_name: my_dagster_code_location
+    build:
+      directory: ./
